@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"
+    },
+    {
+        "name": "NumPy",
+        "icon": "https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
+    },
+    {
+        "name": "Windows",
+        "icon": "https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000"
+    },
+    {
+        "name": "MacOs",
+        "icon": "https://img.icons8.com/?size=100&id=122959&format=png&color=000000"
+    },
+    {
+        "name": "Android",
+        "icon": "https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"
+    },
+    {
+        "name": "Photoshop",
+        "icon": "https://img.icons8.com/?size=100&id=13677&format=png&color=000000"
+    },
+    {
+        "name": "Premiere Pro",
+        "icon": "https://img.icons8.com/?size=100&id=e57Y1CnsOasB&format=png&color=000000"
+    },
+    {
+        "name": "After Effects",
+        "icon": "https://img.icons8.com/?size=100&id=108781&format=png&color=000000"
+    },
+    {
+        "name": "Microsoft 365",
+        "icon": "https://img.icons8.com/?size=100&id=g7UKWvv49CoI&format=png&color=000000"
+    },
+    {
+        "name": "Github",
+        "icon": "https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/?size=100&id=13664&format=png&color=000000"
+    }
+]
