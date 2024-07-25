@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript.
 
-<a href="https://ashhdubey.github.io/CodSoft-Portfolio/">**Visit Now** 🚀</a>
+<a href="#">**Visit Now** 🚀</a>
 
 
 ##  TEchnologies Used
@@ -12,10 +12,6 @@ Portfolio website built using HTML5, CSS3, JavaScript.
 
 
 ##  ScreenShots :
-![1](https://github.com/user-attachments/assets/6b4a87a4-54c7-4dba-a948-e4ae6b323c3b)
-![2](https://github.com/user-attachments/assets/7321d244-032d-415a-81c5-5785abe55eac)
-![3](https://github.com/user-attachments/assets/683e63f0-1180-4c61-89f6-9e8c8fb4d4a2)
-![4](https://github.com/user-attachments/assets/9b23473f-705a-44fb-8437-578f17d8833e)
 
 
 
