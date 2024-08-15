@@ -139,7 +139,7 @@ header .navbar ul li a:hover {
 #menu {
   font-size: 3rem;
   cursor: pointer;
-  color: rgb(24, 2, 63);
+  color: rgb(95, 39, 190);
   display: none;
 }
 @media (max-width: 768px) {
@@ -171,13 +171,13 @@ header .navbar ul li a:hover {
     display: block;
     padding: 1rem;
     text-align: left;
-    color: #fff;
+    color: rgb(95, 39, 190);
     font-size: 2rem;
   }
   header .navbar ul li a.active,
   header .navbar ul li a:hover {
     padding: 1rem;
-    color: #fff;
+    color: rgb(95, 39, 190);
     border-radius: 0.5rem;
     border-bottom: 0.5rem solid #5341ad;
   }
@@ -263,7 +263,7 @@ header .navbar ul li a:hover {
   border-radius: 4em;
   transition: 0.5s;
   color: #fff;
-  background: #2506ad;
+  background: #5341ad;
   box-shadow: 0px 5px 18px rgba(48, 68, 247, 0.6);
   font-family: "Nunito", sans-serif;
 }
@@ -319,19 +319,19 @@ header .navbar ul li a:hover {
   background-color: #0685da;
 }
 .social-icons a.github:hover {
-  background-color: #0e0e0e;
+  background-color:#5341ad;
 }
 .social-icons a.twitter:hover {
   background-color: #00aced;
 }
 .social-icons a.linkedin:hover {
-  background-color: #007bb6;
+  background-color: #5341ad;
 }
 .social-icons a.dev:hover {
   background-color: #070707;
 }
 .social-icons a.instagram:hover {
-  background-color: #c14ddf;
+  background-color: #5341ad;
 }
 /* social icons end */
 
@@ -924,9 +924,9 @@ header .navbar ul li a:hover {
   }
   .experience .container::before {
     left: 61px;
-    border: medium solid #f68c09;
+    border: medium solid #406294;
     border-width: 10px 10px 10px 0;
-    border-color: transparent #f68c09 transparent transparent;
+    border-color: transparent #793dc7 transparent transparent;
   }
   .experience .left::after {
     left: 15px;
