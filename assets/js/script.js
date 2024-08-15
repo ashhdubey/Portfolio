@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development", "web designing", "Java Dev","Python dev", "web development","Data Analyist",],
+    strings: ["frontend development","Software Engineere intern", "web designing", "Java Dev","Python dev", "web development","Data Analyist",],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
@@ -239,3 +239,40 @@ srtop.reveal('.experience .timeline .container', { interval: 400 });
 /* SCROLL CONTACT */
 srtop.reveal('.contact .container', { delay: 400 });
 srtop.reveal('.contact .container .form-group', { delay: 400 });
+
+
+
+
+
+
+// For Dark theme 
+
+document.addEventListener('DOMContentLoaded', () => {
+    const themeToggle = document.getElementById('theme-toggle');
+    const logo = document.getElementById('logo');
+    const currentTheme = localStorage.getItem('theme') || 'light';
+
+    // Apply the saved theme on page load
+    if (currentTheme === 'dark') {
+        document.body.classList.add('dark-theme');
+        themeToggle.innerHTML = '<i class="fas fa-sun"></i>';
+        logo.src = 'https://ashhhdubey.github.io/CodSoft-Portfolio/WhiteIcon.png'; // Dark theme logo
+    } else {
+        logo.src = 'https://ashhhdubey.github.io/CodSoft-Portfolio/LOGO.png'; // Light theme logo
+    }
+
+    // Toggle theme on button click
+    themeToggle.addEventListener('click', () => {
+        document.body.classList.toggle('dark-theme');
+        let theme = 'light';
+        if (document.body.classList.contains('dark-theme')) {
+            themeToggle.innerHTML = '<i class="fas fa-sun"></i>';
+            logo.src = 'https://ashhhdubey.github.io/CodSoft-Portfolio/WhiteIcon.png'; // Dark theme logo
+            theme = 'dark';
+        } else {
+            themeToggle.innerHTML = '<i class="fas fa-moon"></i>';
+            logo.src = 'https://ashhhdubey.github.io/CodSoft-Portfolio/LOGO.png'; // Light theme logo
+        }
+        localStorage.setItem('theme', theme);
+    });
+});
