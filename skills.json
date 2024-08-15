@@ -24,6 +24,18 @@
         "icon": "https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
     },
     {
+        "name": "Java",
+        "icon": "https://img.icons8.com/?size=100&id=13679&format=png&color=000000"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"
+    },
+    {
+        "name": "Github",
+        "icon": "https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000"
+    },
+    {
         "name": "Windows",
         "icon": "https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000"
     },
@@ -35,13 +47,14 @@
         "name": "Android",
         "icon": "https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000"
     },
+   
     {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000"
+        "name": "Microsoft 365",
+        "icon": "https://img.icons8.com/?size=100&id=g7UKWvv49CoI&format=png&color=000000"
     },
     {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/?size=100&id=13664&format=png&color=000000"
     },
     {
         "name": "Figma",
@@ -58,17 +71,7 @@
     {
         "name": "After Effects",
         "icon": "https://img.icons8.com/?size=100&id=108781&format=png&color=000000"
-    },
-    {
-        "name": "Microsoft 365",
-        "icon": "https://img.icons8.com/?size=100&id=g7UKWvv49CoI&format=png&color=000000"
-    },
-    {
-        "name": "Github",
-        "icon": "https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000"
-    },
-    {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/?size=100&id=13664&format=png&color=000000"
     }
+   
+    
 ]
