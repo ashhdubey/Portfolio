@@ -1,5 +1,5 @@
 ## Portfolio-Website
-Portfolio website built using HTML5, CSS3, JavaScript.
+Portfolio website built using HTML5, CSS3, JavaScript
 
 <a href="https://ashhdubey.netlify.app/">**Visit Now** 🚀</a>
 
