@@ -18,7 +18,7 @@ Portfolio website built using HTML5, CSS3, JavaScript
 ![4](https://github.com/user-attachments/assets/8fe82987-6b67-4361-af66-cd3e7fcd62b1)
 
 
-<h2>📬 Contact</h2>
+<h2>📬 Contacts</h2>
 
 Feel free to reach me through the below handles if you'd like to contact me.
 
