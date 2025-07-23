@@ -1,4 +1,4 @@
-# Personal Portfolio Website Documentatio
+# Personal Portfolio Website Documentation
 
 This documentation outlines the structure, features, and usage of your personal portfolio website built using HTML5, CSS, JavaScript, and JSON. This website is intended for personal use to showcase your projects and skills.
 
