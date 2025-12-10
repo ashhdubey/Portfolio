@@ -13,7 +13,7 @@ Built with modern web technologies, this site is a fully responsive, accessible,
 ## 🚀 Live Demo
 
 Check out the live website here:  
-👉 **[View Live Portfolio](https://ashish-dubey-portfolio.netlify.app)** *(Replace this link with your actual Netlify URL once deployed)*
+👉 **[View Live Portfolio](https://ashhdubey.netlify.app/)** *(Replace this link with your actual Netlify URL once deployed)*
 
 ---
 
@@ -57,3 +57,18 @@ DevFolioStudio/
 ├── package.json         # Dependencies and scripts
 ├── vite.config.ts       # Vite configuration (PWA, Plugins)
 └── README.md            # Project documentation
+```
+
+## 📬 Contact Me
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+* **Email:** [ashishdubey.work@gmail.com](mailto:ashishdubey.work@gmail.com)
+* **LinkedIn:** [linkedin.com/in/ashhdubey](https://linkedin.com/in/ashhdubey)
+* **GitHub:** [github.com/ashhdubey](https://github.com/ashhdubey)
+
+---
+
+<p align="center">
+  Made with ❤️ by <strong>Ashish Kumar Dubey</strong>
+</p>
